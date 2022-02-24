@@ -1,0 +1,15 @@
+{
+  "name": "desafio_galeria-pokemones",
+  "version": "1.0.0",
+  "description": "Desafio Galeria Pokemones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Pablo Tamayo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "lodash": "^4.17.21"
+  }
+}
